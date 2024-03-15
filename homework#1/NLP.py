@@ -8,24 +8,15 @@ import re
 
 docs = pd.read_json("dataset.json")
 docs_text = docs["text"] if "text" in docs else docs.iloc[:, 0]
-labels = [0] * 20 + [1] * 20 + [2] * 20
+y = docs.iloc[:, -1].values
 
-"""
-
-Technology => 0,
-
-Sports => 1,
-
-Food => 2
-
-"""
 X_train, X_test, y_train, y_test = train_test_split(
-    docs_text, labels, test_size=0.3, random_state=50
+    docs_text, y, test_size=0.3, random_state=50
 )
+
 
 def clean_data(documents):
     return [re.sub(r"[^\w\s]", "", doc.lower()) for doc in documents]
-
 
 X_train_clean = clean_data(X_train)
 X_test_clean = clean_data(X_test)
