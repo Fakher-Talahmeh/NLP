@@ -1,0 +1,242 @@
+[
+    {
+        "x": "Django (sometimes stylized as django) is a free and open-source, Python-based web framework that runs on a web server. It follows the model templat views (MTV) architectural pattern.[7][8] It is maintained by the Django Software Foundation (DSF), an independent organization established in the US as a 501(c)(3) non-profit.Django's primary goal is to ease the creation of complex, database-driven websites. The framework emphasizes reusability and \"pluggability\" of components, less code, low coupling, rapid development, and the principle of don't repeat yourself.[9] Python is used throughout, even for settings, files, and data models. Django also provides an optional administrative create, read, update and delete interface that is generated dynamically through introspection and configured via admin models.",
+        "y": 0
+    },
+    {
+        "x": "Angular 2.0 was announced at the ng-Europe conference 22\u009623 October 2014.[7][8] The drastic changes in the 2.0 version created considerable controversy among developers.[9] On April 30, 2015, the Angular developers announced that Angular 2 moved from Alpha to Developer Preview.[10] Angular 2 moved to Beta in December 2015,[11] and the first release candidate was published in May 2016.[12] The final version was released on 14 September 2016.",
+        "y": 0
+    },
+    {
+        "x": "React (also known as React.js or ReactJS) is a free and open-source front-end JavaScript library[3][4] for building user interfaces based on components. It is maintained by Meta (formerly Facebook) and a community of individual developers and companies.[5][6][7]React can be used to develop single-page, mobile, or server-rendered applications with frameworks like Next.js. Because React is only concerned with the user interface and rendering components to the DOM, React applications often rely on libraries for routing and other client-side functionality.[8][9] A key advantage of React is that it only rerenders those parts of the page that have changed, avoiding unnecessary rerendering of unchanged DOM elements.",
+        "y": 0
+    },
+    {
+        "x": "The first version was written by Rod Johnson, who released the framework with the publication of his book Expert One-on-One J2EE Design and Development in October 2002. The framework was first released under the Apache 2.0 license in June 2003. The first production release, 1.0, was released in March 2004.[6] The Spring 1.2.6 framework won a Jolt productivity award and a JAX Innovation Award in 2006.[7][8] Spring 2.0 was released in October 2006, Spring 2.5 in November 2007, Spring 3.0 in December 2009, Spring 3.1 in December 2011, and Spring 3.2.5 in November 2013.[9] Spring Framework 4.0 was released in December 2013.[10] Notable improvements in Spring 4.0 included support for Java SE (Standard Edition) 8, Groovy 2,[11] [12] some aspects of Java EE 7, and WebSocket.",
+        "y": 0
+    },
+    {
+        "x": "Firebase evolved from Envolve, a prior startup founded by James Tamplin and Andrew Lee in 2011. Envolve provided developers an API that enables the integration of online chat functionality into their websites. After releasing the chat service, Tamplin and Lee found that it was being used to pass application data that were not chat messages. Developers were using Envolve to sync application data such as game state in real time across their users. Tamplin and Lee decided to separate the chat system and the real-time architecture that powered it.[2] They founded Firebase as a separate company in 2011 and it launched to the public in April 2012.",
+        "y": 0
+    },
+    {
+        "x": "MongoDB is a source-available, cross-platform, document-oriented database program. Classified as a NoSQL database product, MongoDB utilizes JSON-like documents with optional schemas. MongoDB is developed by MongoDB Inc. and current versions are licensed under the Server Side Public License (SSPL). MongoDB is a member of the MACH Alliance.",
+        "y": 0
+    },
+    {
+        "x": "Vue.js features an incrementally adaptable architecture that focuses on declarative rendering and component composition. The core library is focused on the view layer only.[4] Advanced features required for complex applications such as routing, state management and build tooling are offered via officially maintained supporting libraries and packages.[",
+        "y": 0
+    },
+    {
+        "x": "The first version of Flutter was known as \"Sky\"[8] and ran on the Android operating system. It was unveiled at the 2015 Dart developer summit[9] with the stated intent of being able to render consistently at 120 frames per second.[10] During the keynote of Google Developer Days in Shanghai in September 2018, Google announced Flutter Release Preview 2, the last major release before Flutter 1.0. On December 4, 2018, Flutter 1.0 was released at the Flutter Live event, denoting the first stable version of the framework. On December 11, 2019, Flutter 1.12 was released at the Flutter Interactive event.[11]",
+        "y": 0
+    },
+    {
+        "x": "React Native is an open-source UI software framework created by Meta Platforms, Inc.[3] It is used to develop applications for Android[4]:?\u00a7Chapter 1?,[5][6] Android TV,[7] iOS[4]:?\u00a7Chapter 1?,[6] macOS,[8] tvOS,[9] Web,[10] Windows[8] and UWP[11] by enabling developers to use the React framework along with native platform capabilities.[12] It is used to develop the Android and iOS applications at Facebook, Microsoft, and Shopify.[13] It is also being used to develop virtual reality applications at Oculus.",
+        "y": 0
+    },
+    {
+        "x": "Ionic is an open-source UI toolkit for building cross-platform mobile, web, and desktop applications using web technologies such as HTML, CSS, and JavaScript\/TypeScript. It provides a set of pre-designed UI components and tools for building high-quality, interactive applications. Ionic was originally built as a complete open-source SDK for hybrid mobile app development created by Max Lynch, Ben Sperry, and Adam Bradley of Drifty Co. in 2013.[3] The original version was released in 2013 and built on top of AngularJS and Apache Cordova. However, the latest release was re-built as a set of Web Components using StencilJS, allowing the user to choose any user interface framework, such as Angular, React or Vue.js. It also allows the use of Ionic components with no user interface framework at all.[4] Ionic provides tools and services for developing hybrid mobile, desktop, and progressive web apps based on modern web development technologies and practices, using Web technologies like CSS, HTML5, and Sass. In particular, mobile apps can be built with these Web technologies and then distributed through native app stores to be installed on devices by utilizing Cordova or Capacitor.",
+        "y": 0
+    },
+    {
+        "x": "Taylor Otwell created Laravel as an attempt to provide a more advanced alternative to the CodeIgniter framework, which did not provide certain features such as built-in support for user authentication and authorization. Laravel's first beta release was made available on June 9, 2011, followed by the Laravel 1 release later in the same month. Laravel 1 included built-in support for authentication, localisation, models, views, sessions, routing and other mechanisms, but lacked support for controllers that prevented it from being a true MVC framework.",
+        "y": 0
+    },
+    {
+        "x": "Flask is a micro web framework written in Python. It is classified as a microframework because it does not require particular tools or libraries.[2] It has no database abstraction layer, form validation, or any other components where pre-existing third-party libraries provide common functions. However, Flask supports extensions that can add application features as if they were implemented in Flask itself. Extensions exist for object-relational mappers, form validation, upload handling, various open authentication technologies and several common framework related tools.",
+        "y": 0
+    },
+    {
+        "x": "Web2py is an open-source web application framework written in the Python programming language. Web2py allows web developers to program dynamic web content using Python. Web2py is designed to help reduce tedious web development tasks, such as developing web forms from scratch, although a web developer may build a form from scratch if required.",
+        "y": 0
+    },
+    {
+        "x": "JavaScript is a high-level, often just-in-time compiled language that conforms to the ECMAScript standard.[11] It has dynamic typing, prototype-based object-orientation, and first-class functions. It is multi-paradigm, supporting event-driven, functional, and imperative programming styles. It has application programming interfaces (APIs) for working with text, dates, regular expressions, standard data structures, and the Document Object Model (DOM).",
+        "y": 0
+    },
+    {
+        "x": "TypeScript is a free and open-source high-level programming language developed by Microsoft that adds static typing with optional type annotations to JavaScript. It is designed for the development of large applications and transpiles to JavaScript.[6] Because TypeScript is a superset of JavaScript, all JavaScript programs are syntactically valid TypeScript, but they can fail to type-check for safety reasons.",
+        "y": 0
+    },
+    {
+        "x": "Dart had a mixed reception at first. Some criticized the Dart initiative for fragmenting the web because of plans to include a Dart VM in Chrome. Those plans were dropped in 2015 with the Dart 1.9 release. Focus changed to compiling Dart code to JavaScript.[13]",
+        "y": 0
+    },
+    {
+        "x": "Python was conceived in the late 1980s[40] by Guido van Rossum at Centrum Wiskunde & Informatica (CWI) in the Netherlands as a successor to the ABC programming language, which was inspired by SETL,[41] capable of exception handling and interfacing with the Amoeba operating system.[10] Its implementation began in December 1989.[42] Van Rossum shouldered sole responsibility for the project, as the lead developer, until 12 July 2018, when he announced his \"permanent vacation\" from his responsibilities as Python's \"benevolent dictator for life\", a title the Python community bestowed upon him to reflect his long-term commitment as the project's chief decision-maker.[43] In January 2019, active Python core developers elected a five-member Steering Council to lead the project.",
+        "y": 0
+    },
+    {
+        "x": "In 2016, Microsoft released ASP.NET Core as ASP.NET's successor. This new version is a re-implementation of ASP.NET as a modular web framework, together with other frameworks like Entity Framework. The new framework uses the new open-source .NET Compiler Platform (codename \"Roslyn\") and is cross platform. ASP.NET MVC, ASP.NET Web API, and ASP.NET Web Pages (a platform using only Razor pages) have merged into a unified MVC 6.",
+        "y": 0
+    },
+    {
+        "x": "ChatGPT is available for use online in two versions, one built on GPT-3.5 and the other on GPT-4, both of which are members of OpenAI's proprietary series of generative pre-trained transformer (GPT) models, based on the transformer architecture developed by Google[8]\u0097and is fine-tuned for conversational applications using a combination of supervised learning and reinforcement learning.[6] ChatGPT was released as a freely available research preview, but due to its popularity, OpenAI now operates the service on a freemium model. It allows users on its free tier to access the GPT-3.5-based version, while the more advanced GPT-4-based version and priority access to newer features are provided to paid subscribers under the commercial name \"ChatGPT Plus\".",
+        "y": 0
+    },
+    {
+        "x": "The C# programming language was designed by Anders Hejlsberg from Microsoft in 2000 and was later approved as an international standard by Ecma (ECMA-334) in 2002 and ISO\/IEC (ISO\/IEC 23270 and 20619[c]) in 2003. Microsoft introduced C# along with .NET Framework and Visual Studio, both of which were closed-source. At the time, Microsoft had no open-source products. Four years later, in 2004, a free and open-source project called Mono began, providing a cross-platform compiler and runtime environment for the C# programming language. A decade later, Microsoft released Visual Studio Code (code editor), Roslyn (compiler), and the unified .NET platform (software framework), all of which support C# and are free, open-source, and cross-platform. Mono also joined Microsoft but was not merged into .NET.",
+        "y": 0
+    },
+    {
+        "x": "Messi relocated to Spain from Argentina aged 13 to join Barcelona, for whom he made his competitive debut aged 17 in October 2004. He established himself as an integral player for the club within the next three years, and in his first uninterrupted season in\u00a02008\u009609\u00a0he helped Barcelona achieve the first\u00a0treble\u00a0in Spanish football; that year, aged 22, Messi won his first\u00a0Ballon d'Or. Three successful seasons followed, with Messi winning four consecutive Ballons d'Or, making him the first player to win the award four times. During the\u00a02011\u009612 season, he set the La Liga and European records for most goals scored in a single season, while establishing himself as\u00a0Barcelona's all-time top scorer. The following two seasons, Messi finished second for the\u00a0Ballon d'Or\u00a0behind\u00a0Cristiano Ronaldo\u00a0(his perceived\u00a0career rival), before regaining his best form during the\u00a02014\u009615 campaign, becoming the all-time top scorer in La Liga and leading Barcelona to a historic second treble, after which he was awarded a fifth Ballon d'Or in\u00a02015. Messi assumed captaincy of Barcelona in 2018, and won a record\u00a0sixth Ballon d'Or\u00a0in 2019. Out of contract, he signed for French club\u00a0Paris Saint-Germain\u00a0in August 2021, spending two seasons at the club and winning\u00a0Ligue 1\u00a0twice. Messi joined American club Inter Miami in July 2023, winning the\u00a0Leagues Cup\u00a0in August of that year.",
+        "y": 1
+    },
+    {
+        "x": "Ronaldo began his senior career with Sporting CP, before signing with Manchester United in 2003, winning the FA Cup in his first season. He would also go on to win three consecutive Premier League titles, the Champions League and the FIFA Club World Cup; at age 23, he won his first Ballon d'Or. Ronaldo was the subject of the then-most expensive association football transfer when he signed for Real Madrid in 2009 in a transfer worth \u008094 million (\u00a380 million). He became a key contributor and formed an attacking trio with Karim Benzema and Gareth Bale which was integral to the team winning four Champions Leagues from 2014 to 2018, including La D\u00e9cima. During this period, he won back-to-back Ballons d'Or in 2013 and 2014, and again in 2016 and 2017, and was runner-up three times behind Lionel Messi, his perceived career rival. He also became the club's all-time top goalscorer and the all-time top scorer in the Champions League, and finished as the competition's top scorer for six consecutive seasons between 2012 and 2018. With Real, Ronaldo won four Champions Leagues, two La Liga titles, two Copas del Rey, two UEFA Super Cups and three Club World Cups. In 2018, he signed for Juventus in a transfer worth an initial \u0080100 million (\u00a388 million), the most expensive transfer for an Italian club and for a player over 30 years old. He won two Serie A titles, two Supercoppa Italiana trophies and a Coppa Italia, became the inaugural Serie A Most Valuable Player and became the first footballer to finish as top scorer in the English, Spanish and Italian leagues. He returned to Manchester United in 2021, finishing his only full season as the club's top scorer, before his contract was terminated in 2022. In 2023, he signed for Al Nassr.",
+        "y": 1
+    },
+    {
+        "x": "Neymar made made his professional debut with Santos in 2009, and in 2011, he helped them win their first Copa Libertadores in nearly 50 years.[5] In 2013, he joined Barcelona and became part of an attacking trio with Lionel Messi and Luis Su\u00e1rez, dubbed MSN. Winning the continental treble of La Liga, the Copa del Rey, and the UEFA Champions League in the trio's first season, Neymar was the joint-top scorer of the Champions League campaign and top scorer in the Copa del Rey. Neymar joined Paris Saint-Germain (PSG) in 2017 in a transfer costing \u0080222 million, making him the most expensive player ever.[note 1][8] There, he won Ligue 1 Player of the Year, won five Ligue 1 titles, and was integral to PSG being runners-up in the 2019-20 Champions League. He also ranks as PSG's fourth-highest all-time top goalscorer, despite reoccurring injuries consistently disrupting his playing time. In 2023, he joined Al Hilal in a lucrative deal.",
+        "y": 1
+    },
+    {
+        "x": "Born in Lyon to parents of Algerian descent, Benzema began his career with hometown club Lyon in 2005, contributing sporadically to three Ligue 1 title wins. In 2008, he was named the league's Player of the Year and in the Team of the Year having finished as the league's top goalscorer and winning his fourth league title and first Coupe de France. In 2009, Benzema was the subject of a then-French record football transfer when he joined Real Madrid in a deal worth \u008035 million. After struggling to establish himself in his debut season, he eventually achieved a consistent goalscoring rate with the club, notably being part of a highly rated trio alongside Cristiano Ronaldo and Gareth Bale \u0097 dubbed \"BBC\" \u0097 who were integral to four Champions League wins from 2014 to 2018.",
+        "y": 1
+    },
+    {
+        "x": "Founded as a Roman city, in the Middle Ages Barcelona became the capital of the County of Barcelona. After joining with the Kingdom of Aragon to form the confederation of the Crown of Aragon, Barcelona, which continued to be the capital of the Principality of Catalonia, became the most important city in the Crown of Aragon and the main economic and administrative centre of the Crown, only to be overtaken by Valencia, wrested from Moorish control by the Catalans, shortly before the dynastic union between the Crown of Castile and the Crown of Aragon in 1492. Barcelona became the centre of Catalan separatism, briefly becoming part of France during the 17th century Reapers' War and again in 1812 until 1814 under Napoleon. It was the capital of Revolutionary Catalonia during the Spanish Revolution of 1936, and the seat of government of the Second Spanish Republic later in the Spanish Civil War, until its capture by the fascists in 1939. After the Spanish transition to democracy in the 1970s, Barcelona once again became the capital of an autonomous Catalonia.",
+        "y": 1
+    },
+    {
+        "x": "Born in Paris and raised in nearby Bondy, Mbapp\u00e9 began his senior club career in 2015 with Monaco, where he won the Ligue 1 title in the 2016\u009617 season. In 2017, aged 18, Mbapp\u00e9 signed for Paris Saint-Germain on an eventual permanent transfer worth \u0080180 million, making him the second-most-expensive player and most expensive teenage player of all time.[5] With PSG, he has won five Ligue 1 titles and three Coupes de France, including a domestic quadruple in the 2019\u009620 season, while also leading the club to its first ever UEFA Champions League final in 2020. He is the club's all-time top goalscorer and ranks third all time in assists. He is the ninth-highest goalscorer in Ligue 1 history.",
+        "y": 1
+    },
+    {
+        "x": "The Parisians were founded in 1970, following the merger of Paris FC and Stade Saint-Germain. PSG won their first major honour, the French Cup, in 1982 and their first Division 1 title in 1986. The 1990s was among the most successful periods in the club's history; they claimed a second league title, three French Cups, two French League Cups, two French Super Cups and the UEFA Cup Winners' Cup in 1996. After suffering a decline in fortunes during the 2000s, the Red and Blues have enjoyed a revival since 2011 with increased financial backing, achieving unparalleled dominance in domestic competitions, winning multiple league titles and national cups. PSG have also become a regular feature in the UEFA Champions League, reaching their first final in 2020.",
+        "y": 1
+    },
+    {
+        "x": "Chelsea is one of five clubs and the first English club to have won all three pre-1999 main European club competitions, the \"European Treble\" of European Cup\/UEFA Champions League, European\/UEFA Cup Winners' Cup, and UEFA Cup\/UEFA Europa League.[6] They are also the only club to have won all three major European competitions twice. They are also the only London club to have won the Champions League and the Club World Cup.[7] Domestically, the club has won six league titles, eight FA Cups, five League Cups, and four FA Community Shields. Internationally, they have won the UEFA Champions League, the UEFA Europa League, the UEFA Cup Winners' Cup and the UEFA Super Cup twice each, and the FIFA Club World Cup once since their inception. In terms of overall trophies won, Chelsea is the joint fourth-most successful club in English football.",
+        "y": 1
+    },
+    {
+        "x": "Founded in 1908 following a schism within the Milan Cricket and Football Club (now AC Milan), Inter won its first championship in 1910. Since its formation, the club has won 36 domestic trophies, including nineteen league titles, nine Coppa Italia, and eight Supercoppa Italiana. From 2006 to 2010, the club won five successive league titles, equalling the all-time record at that time.[11] They have won the European Cup\/Champions League three times: two back-to-back in 1964 and 1965, and then another in 2010. Their latest win completed an unprecedented Italian seasonal treble, with Inter winning the Coppa Italia and the Scudetto the same year.[12] The club has also won three UEFA Cups, two Intercontinental Cups and one FIFA Club World Cup.",
+        "y": 1
+    },
+    {
+        "x": "Founded on 26 April 1903 as Athletic Club Sucursal de Madrid, the club has traditionally worn red and white vertical striped shirts, being known as Los Colchoneros (\"The Mattress Makers\") and Los Rojiblancos. The club became Atl\u00e9tico de Madrid in 1946 and began a long-standing rivalry with Madrid neighbours Real Madrid, with whom they contest the El Derbi Madrile\u00f1o. They also share a rivalry with Barcelona.[7] Felipe VI, the King of Spain, has been the honorary president of the club since 2003.",
+        "y": 1
+    },
+    {
+        "x": "Founded in 1902 as Madrid Football Club, the club has traditionally worn a white home kit since its inception. The honorific title real is Spanish for \"royal\" and was bestowed to the club by King Alfonso XIII in 1920 together with the royal crown in the emblem. Real Madrid have played their home matches in the 83,186-capacity Santiago Bernab\u00e9u in central Madrid since 1947. Unlike most European sporting entities, Real Madrid's members (socios) have owned and operated the club throughout its history. The official Madrid anthem is the \"Hala Madrid y nada m\u00e1s\", written by RedOne and Manuel Jabois.[6] The club is one of the most widely supported in the world, and is the most followed football club on social media according to the CIES Football Observatory as of 2023[7][8] and was estimated to be worth $6.07 billion in 2023, making it the world's most valuable football club.[9] In 2024, it was the highest-earning football club in the world, with an annual revenue of \u0080831.4 million.[10]",
+        "y": 1
+    },
+    {
+        "x": "Bayern Munich was founded in 1900 by eleven players, led by Franz John.[4] Although Bayern won its first national championship in 1932, the club was not selected for the Bundesliga at its inception in 1963. The club had its period of greatest success in the mid-1970s when, under the captaincy of Franz Beckenbauer, they won the European Cup three consecutive times (1974\u00961976). Overall, Bayern have won six European Cup\/UEFA Champions League titles (a German record), winning their sixth title in the 2020 final as part of the Treble, after which it became the second European club to achieve the feat twice. Bayern has also won one UEFA Cup, one European Cup Winners' Cup, two UEFA Super Cups, two FIFA Club World Cups and two Intercontinental Cups, making it one of the most successful European clubs internationally, and the only German club to have won both international titles. Bayern players have accumulated five Ballon d'Or awards, two The Best FIFA Men's Player awards, four European Golden Shoe and three UEFA Men's Player of the Year awards, including UEFA Club Footballer of the Year.",
+        "y": 1
+    },
+    {
+        "x": "Kak\u00e1 made his professional club debut at age 18 at S\u00e3o Paulo in Brazil in 2001, and his performances with the club led to him joining Serie A club AC Milan in 2003. In Italy, Kak\u00e1 helped Milan win the Serie A title in his first season. Milan finished runners up in the 2004\u009605 UEFA Champions League with Kak\u00e1 the top assist provider of the tournament, and he was named the UEFA Club Midfielder of the Year. He led Milan to win the 2006\u009607 UEFA Champions League and was the tournament's top goal scorer. His performances saw him win the FIFA World Player of the Year, the 2007 Ballon d'Or and the UEFA Club Footballer of the Year. After six years with Milan, Kak\u00e1 joined Real Madrid in 2009 for a transfer fee of \u008067 million,[11] which was the second highest transfer fee at the time. However, after four injury troubled seasons in Spain, which saw his physical mobility rapidly decline, he returned to AC Milan for a single season in 2013, prior to joining MLS expansion club Orlando City SC. He initially returned to his former club S\u00e3o Paulo on loan, before returning to Orlando in 2015 and retiring in 2017.",
+        "y": 1
+    },
+    {
+        "x": "Ronaldo de Assis Moreira (born 21 March 1980), commonly known as Ronaldinho Ga\u00facho (Brazilian Portuguese: [?onaw?d???u ?a?u?u]) or simply Ronaldinho,[note 1] is a Brazilian former professional footballer who played as an attacking midfielder or winger. Widely regarded as one of the greatest players of all time, he won two FIFA World Player of the Year awards and a Ballon d'Or. He is the only player ever to have won a World Cup, a Copa Am\u00e9rica, a Confederations Cup, a Champions League, a Copa Libertadores and a Ballon d'Or.[4] A global icon of the sport, Ronaldinho was renowned for his technical skills, creativity, dribbling ability and accuracy from free-kicks, his use of tricks, feints, no-look passes and overhead kicks, as well as his ability to score and create goals, all prominent characteristics of his early-age background playing futsal. He is known by the nickname \"O Bruxo\" (\"The Wizard\").",
+        "y": 1
+    },
+    {
+        "x": "Ibrahimovi? began his career at Malm\u00f6 FF in 1999, and signed for Ajax two years later, where he gained a reputation as one of the most promising forwards in Europe. He departed two years later to sign for Juventus before joining domestic rivals Inter Milan in 2006. At Inter Milan, he won three consecutive Serie A titles and his popularity experienced a significant increase. In the summer of 2009, he moved to Barcelona in one of the world's most expensive transfers. After just one season, he returned to Italy having signed for Inter's rival Milan. With them, he won the Serie A title in his debut season. In 2012, Ibrahimovi? joined Paris Saint-Germain, leading them to their first Ligue 1 title in 19 years and soon establishing himself as a leading figure in their dominance of French football. During his four-season stay in France, he won four consecutive Ligue 1 titles, was the top scorer in Ligue 1 for three seasons and became PSG's all-time leading goalscorer at the time. In 2016, he joined Manchester United on a free transfer and won his first European honour in his debut season. Ibrahimovi? joined American club LA Galaxy in 2018 and rejoined Milan in 2020, winning his fifth Serie A title in 2022.",
+        "y": 1
+    },
+    {
+        "x": "Zinedine Yazid Zidane (French: Zin\u00e9dine Yazid Zidane;[4] Kabyle: Zineddin Lyazid Zidan; born 23 June 1972), popularly known as Zizou, is a French professional football manager and former player who played as an attacking midfielder. He most recently coached Spanish club Real Madrid and is one of the most successful coaches in the world. Widely regarded as one of the greatest players of all time, Zidane was a playmaker renowned for his elegance, vision, passing, ball control, and technique. He received many individual accolades as a player, including being named FIFA World Player of the Year in 1998, 2000 and 2003, and winning the 1998 Ballon d'Or.",
+        "y": 1
+    },
+    {
+        "x": "After a series of stand out performances for both Bordeaux and France, Zidane had offers to join Europe's top clubs in the spring of 1996, deciding on a move to UEFA Champions League winners Juventus during the close season.[30] Zidane's impact in Italy was immediate, winning the 1996\u009697 Serie A title and the 1996 Intercontinental Cup.[31] He was named Serie A Foreign Footballer of the Year in his first season.[32] Zidane's growing status in the sport saw him chosen in a European XI to face a World XI \u0096 featuring a forward line of Ronaldo and Gabriel Batistuta \u0096 in December 1997.",
+        "y": 1
+    },
+    {
+        "x": "Mohamed Salah Hamed Mahrous Ghaly (Arabic: ???? ???? ???? ????? ????, Egyptian Arabic pronunciation: [m\u00e6??am.m\u00e6d s???l??? ??\u00e6?li];[5] born 15 June 1992), known as Mohamed Salah or Mo Salah, is an Egyptian professional footballer who plays as a right winger or forward for Premier League club Liverpool and captains the Egypt national team. Regarded as one of the best players of his generation and among the greatest African players of all time, he is known for his clinical finishing, dribbling and speed.",
+        "y": 1
+    },
+    {
+        "x": "Salah started his senior career in 2010 playing for Al Mokawloon Al Arab, departing in 2012 to join Basel, where he won two Swiss Super League titles. In 2014, Salah joined Chelsea for a reported fee of \u00a311 million, but limited gametime led to successive loans to Fiorentina and Roma, who later signed him permanently for \u008015 million. In the 2016\u009617 season, Salah was a key figure in Roma's unsuccessful title bid, reaching double figures in both goals and assists. In 2017, Salah signed for Liverpool for a then-club record transfer of \u00a336.9 million. In his first season, he set the record for most Premier League goals scored (32) in a 38-game season and helped Liverpool to the 2018 UEFA Champions League final. Having formed a formidable attacking trio with Roberto Firmino and Sadio Man\u00e9 after the departure of Philippe Coutinho, Salah went on to be an integral player in the club's Champions League and Premier League title successes in the following two seasons, and has since also won the FA Cup, EFL Cup and FA Community Shield. Salah has achieved numerous individual accolades, including two PFA Players' Player of the Year awards, three Premier League Golden Boots, the Premier League Player of the Season, the Premier League Playmaker of the Season, finished third for the Best FIFA Men's Player in 2018 and 2021, and finished fifth in the 2019 and 2022 FIFA Ballon d'Or. He received the 2018 FIFA Pusk\u00e1s Award for his winning strike in the first Merseyside derby of the 2017\u009618 season. In 2023, Salah became Liverpool's top Premier League goalscorer, and became the fifth player to score 200 goals for the club.",
+        "y": 1
+    },
+    {
+        "x": "At international level, Salah represented Egypt at youth level before making his senior debut in 2011. Following his performances at the 2012 Summer Olympics, he was named CAF Most Promising African Talent of the Year. Since then, he finished as runner-up in the 2017 and 2021 Africa Cup of Nations, and was top scorer during CAF qualification as Egypt qualified for the 2018 FIFA World Cup. Salah was named CAF African Footballer of the Year (2017 and 2018), BBC African Footballer of the Year (2017 and 2018), and was selected in the 2017 Africa Cup of Nations Team of the Tournament, 2021 Africa Cup of Nations Team of the Tournament and the CAF Team of the Year on several occasions.",
+        "y": 1
+    },
+    {
+        "x": "Musakhan is simple to make and the ingredients needed are easily obtainable, which may account for the dish's popularity. Many of the ingredients used\u0097olive oil, sumac and pine nuts\u0097are staples of Palestinian cuisine. The dish is typically eaten with one's hands. It is usually presented with the chicken on top of the bread, and could be served with soup.",
+        "y": 2
+    },
+    {
+        "x": "Mulukhiyah (Arabic: ??????, romanized: mul?khiyyah), also known as molokhiyya, melokhiyya, or ewedu, is a type of jute plant and a dish made from the leaves of Corchorus olitorius, commonly known in English as jute, jute leaves, jute mallow, nalta jute, or tossa jute.[3][4] It is used as a vegetable and is mainly eaten in Egypt, the Levant (Syria, Lebanon, Palestine and Jordan), Sudan, Cyprus, Libya, Tunisia and Algeria.[5] It is called saluyot in the Philippines. Mulukhiyah is rather bitter, and when boiled, the resulting liquid is a thick, highly mucilaginous broth; it is often described as \"slimy\", rather like cooked okra.[6][7] Mulukhiyah is generally eaten cooked, not raw, and it is either eaten chopped and saut\u00e9ed in oil, garlic and cilantro like in Syria or turned into a kind of soup or stew like in Egypt, typically bearing the same name as the vegetable in the local language. Traditionally mulukhiyah is cooked with chicken or at least chicken stock for flavor and is served with white rice, accompanied with lemon or lime.",
+        "y": 2
+    },
+    {
+        "x": "The dish has featured in the\u00a0Israeli-Palestinian conflict. Palestinians have described attempts to label the dish as Israeli as amounting to\u00a0cultural appropriation.[11]\u00a0The dish has been used by Palestinian activists to mobilize people to join protests at the\u00a0Aqsa mosque\u00a0in\u00a0Israeli-occupied\u00a0East Jerusalem.",
+        "y": 2
+    },
+    {
+        "x": "Shawarma (\/???w??rm?\/; Arabic: ??????) is a Middle Eastern dish that originated in the Levant region of the Arab world during the Ottoman Empire,[1][2][3][4] consisting of meat that is cut into thin slices, stacked in an inverted cone, and roasted on a slow-turning vertical spit. Traditionally made with lamb or mutton, it may also be made with chicken, turkey, beef, or veal.[5][6][1] The surface of the rotisserie meat is routinely shaved off once it cooks and is ready to be served.[7][8] Shawarma is a popular street food throughout the Arab world and the Greater Middle East.",
+        "y": 2
+    },
+    {
+        "x": "A hamburger or simply burger is a food consisting of fillings\u0097usually a patty of ground meat, typically beef\u0097placed inside a sliced bun or bread roll. Hamburgers are often served with cheese, lettuce, tomato, onion, pickles, bacon, or chilis; condiments such as ketchup, mustard, mayonnaise, relish, or a \"special sauce\", often a variation of Thousand Island dressing; and are frequently placed on sesame seed buns. A hamburger patty topped with cheese is called a cheeseburger.",
+        "y": 2
+    },
+    {
+        "x": "The term pizza was first recorded in the year 997, in a Latin manuscript from the southern Italian town of Gaeta, in Lazio, on the border with Campania.[2] Raffaele Esposito is often credited for creating modern pizza in Naples.[3][4][5][6] In 2009, Neapolitan pizza was registered with the European Union as a traditional speciality guaranteed dish. In 2017, the art of making Neapolitan pizza was added to UNESCO's list of intangible cultural heritage.",
+        "y": 2
+    },
+    {
+        "x": "A healthy diet may contain fruits, vegetables, and whole grains, and may include little to no ultra-processed foods or sweetened beverages. The requirements for a healthy diet can be met from a variety of plant-based and animal-based foods, although additional sources of vitamin B12 are needed for those following a vegan diet.[4] Various nutrition guides are published by medical and governmental institutions to educate individuals on what they should be eating to be healthy. Nutrition facts labels are also mandatory in some countries to allow consumers to choose between foods based on the components relevant to health.",
+        "y": 2
+    },
+    {
+        "x": "Fast food is a type of mass-produced food designed for commercial resale, with a strong priority placed on speed of service. It is a commercial term, limited to food sold in a restaurant or store with frozen, preheated or precooked ingredients and served in packaging for take-out\/takeaway. Fast food was created as a commercial strategy to accommodate large numbers of busy commuters, travelers and wage workers. In 2018, the fast food industry was worth an estimated $570 billion globally.",
+        "y": 2
+    },
+    {
+        "x": "Mexican cuisine consists of the cooking cuisines and traditions of the modern country of Mexico. Its earliest roots lie in Mesoamerican cuisine. Its ingredients and methods begin with the first agricultural communities such as the Olmec and Maya who domesticated maize, created the standard process of nixtamalization, and established their foodways.[2] Successive waves of other Mesoamerican groups brought with them their cooking methods. These included: the Teotihuacanos, Toltec, Huastec, Zapotec, Mixtec, Otomi, Pur\u00e9pecha, Totonac, Mazatec, Mazahua, and Nahua. With the Mexica formation of the multi-ethnic Triple Alliance (Aztec Empire), culinary foodways became infused (Aztec cuisine).",
+        "y": 2
+    },
+    {
+        "x": "Italian cuisine is a Mediterranean cuisine[1] consisting of the ingredients, recipes and cooking techniques developed in Italy since Roman times and later spread around the world together with waves of Italian diaspora.[2][3][4] Some of these foods were imported from other cultures. Significant changes occurred with the colonization of the Americas and the introduction of potatoes, tomatoes, capsicums, maize and sugar beet\u0097the latter introduced in quantity in the 18th century.[5][6] It is one of the best-known and most appreciated gastronomies worldwide.",
+        "y": 2
+    },
+    {
+        "x": "Junk food is a term used to describe food that is high in calories from sugar and\/or fat, and possibly sodium, making it hyperpalatable, but with little dietary fiber, protein, vitamins, minerals, or other important forms of nutritional value.[1][2][3] It is also known as HFSS food (high in fat, salt and sugar).[4] The term junk food is a pejorative dating back to the 1950s.[5] Many variations of junk food can be easily found in most supermarkets and fast food restaurants. Due to easy accessibility, commercially-oriented packaging, and often-low prices, people are most likely to consume it.",
+        "y": 2
+    },
+    {
+        "x": "Palestinian cuisine consists of foods from or commonly eaten by Palestinians, whether in Palestine, Israel, Jordan, or refugee camps in nearby countries, or by the Palestinian diaspora. The cuisine is a diffusion of the cultures of civilizations that settled in the region of Palestine, particularly during and after the Islamic era beginning with the Arab Ummayad conquest, then the eventual Persian-influenced Abbasids and ending with the strong influences of Turkish cuisine, resulting from the coming of the Ottoman Turks. It is similar to other Levantine cuisines, including Lebanese, Syrian and Jordanian.",
+        "y": 2
+    },
+    {
+        "x": "Jordanian cuisine is a Middle Eastern cuisine developed over tine in Jordan. Stuffed vegetables are common, with many different techniques employed in their preparation. Meat is an important component of Jordanian cuisine, most often lamb, beef and chicken but also goat and camel meat. Rice is frequently served as a side dish but there are also one-pot rice dishes such as maqloubah.",
+        "y": 2
+    },
+    {
+        "x": "Egyptian cuisine makes heavy use of poultry, legumes, vegetables and fruit from Egypt's rich Nile Valley and Delta. Examples of Egyptian dishes include rice-stuffed vegetables and grape leaves, hummus, falafel, shawarma, kebab and kofta. ful medames, mashed fava beans; koshary, lentils and pasta; and molokhiya, bush okra stew. A local type of pita bread known as eish baladi[1] (Egyptian Arabic: ??? ????) is a staple of Egyptian cuisine, and cheesemaking in Egypt dates back to the First Dynasty of Egypt, with Domiati being the most popular type of cheese consumed today.",
+        "y": 2
+    },
+    {
+        "x": "Iranian cuisine is the culinary traditions of Iran. Due to the historically common usage of the term \"Persia\" to refer to Iran in the Western world,[2][3][4] it is alternatively known as Persian cuisine, despite Persians being only one of a multitude of Iranian ethnic groups who have contributed to Iran's culinary traditions.",
+        "y": 2
+    },
+    {
+        "x": "Korean cuisine is largely based on rice, vegetables, seafood and (at least in South Korea) meats. Dairy is largely absent from the traditional Korean diet.[3] Traditional Korean meals are named for the number of side dishes (??; ??; banchan) that accompany steam-cooked short-grain rice. Kimchi is served at nearly every meal. Commonly used ingredients include sesame oil, doenjang (fermented bean paste), soy sauce, salt, garlic, ginger, gochugaru (pepper flakes), gochujang (fermented red chili paste) and napa cabbage.",
+        "y": 2
+    },
+    {
+        "x": "Street food refers to food or drinks sold by a hawker or vendor on a street or at other public places, such as markets, fairs, and parks. It is often sold from a portable food booth,[1] food cart, or food truck and is meant for immediate consumption. Some street foods are regional, but many have spread beyond their regions of origin. Most street foods are classified as both finger food and fast food and are typically cheaper than restaurant meals. The types of street food vary between regions and cultures in different countries around the world.[2] According to a 2007 study from the Food and Agriculture Organization, 2.5 billion people eat street food every day.[3] While some cultures consider it to be rude to walk on the street while eating,[4] a majority of middle- to high-income consumers[5] rely on the quick access and cheap service of street food for daily nutrition and job opportunities, especially in developing countries.",
+        "y": 2
+    },
+    {
+        "x": "Algerian cuisine offers a variety of dishes depending on the region and the season, but vegetables and cereals remain at its core. Most of the Algerian dishes are centered around bread, meats (lamb, beef or poultry), olive oil, vegetables, and fresh herbs. Vegetables are often used for salads, soups, tajines, couscous, and sauce-based dishes. Of all the Algerian traditional dishes available, the most famous one is couscous, recognized as a national dish.",
+        "y": 2
+    },
+    {
+        "x": "Yemeni cuisine is distinct from the wider Middle Eastern cuisines, but with a degree of regional variation. Although some foreign influences are evident in some regions of the country (with Ottoman influences showing in Sanaa, while Indian influence is evident in the southern areas around Aden and Mukalla), the Yemeni kitchen is based on similar foundations across the country.",
+        "y": 2
+    },
+    {
+        "x": "Cooking in Saudi Arabia is influenced by their native Arab culture and the Islamic culture. Dates, for example, are associated with the tradition of breaking the fast after Ramadan. Most food ingredients, such as wheat, dates, ghee, meat, fish and vegetables, are sourced locally. Through these ingredients, dozens of delicious dishes have been created, which are closely linked to Saudi customs and traditions.[2] These dishes are typically enjoyed during festive seasons, Hajj, special occasions, weddings, and the arrival of a newborn. Serving these dishes to guests is a way of expressing generosity and the renowned hospitality of the people of Saudi Arabia. Some of these traditions continue to be practiced to this day.",
+        "y": 2
+    }
+]
